@@ -167,7 +167,7 @@ public class EmployeeResource {
     @PUT
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.TEXT_HTML)
-    @Path("/udpateEmployee")
+    @Path("/updateEmployee")
     public Response updateEmployee(String employee) {
         try {
             EmployeeManager manager = EmployeeManager.getInstance();
