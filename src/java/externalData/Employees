@@ -1,0 +1,32 @@
+{
+    "employees": [
+        {
+           "firstName": "Mario",
+            "middleInitial": "Pedro",
+            "lastName": "Garcia",
+            "dateOfBirth": "11-09-1990",
+            "dateOfEmployment": "08-08-1999"
+        },
+        {
+           "firstName": "Miguel",
+            "middleInitial": "R",
+            "lastName": "Ramirez",
+            "dateOfBirth": "10-09-1990",
+            "dateOfEmployment": "05-08-1999"
+        },
+        {
+           "firstName": "Julio",
+            "middleInitial": "I",
+            "lastName": "Jasso",
+            "dateOfBirth": "11-09-1990",
+            "dateOfEmployment": "08-08-1999"
+        },
+        {
+           "firstName": "Mauricio",
+            "middleInitial": "Pedro",
+            "lastName": "Romero",
+            "dateOfBirth": "11-09-1990",
+            "dateOfEmployment": "08-08-1999"
+        }
+    ]
+}
